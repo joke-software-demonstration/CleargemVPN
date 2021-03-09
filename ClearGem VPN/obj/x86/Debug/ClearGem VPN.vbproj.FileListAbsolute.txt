@@ -1,0 +1,11 @@
+D:\Development\Visual Basic 2010 Express\Source\ClearGem VPN\VSPROJ\ClearGem VPN\ClearGem VPN\bin\Debug\ClearGem VPN.exe
+D:\Development\Visual Basic 2010 Express\Source\ClearGem VPN\VSPROJ\ClearGem VPN\ClearGem VPN\bin\Debug\ClearGem VPN.pdb
+D:\Development\Visual Basic 2010 Express\Source\ClearGem VPN\VSPROJ\ClearGem VPN\ClearGem VPN\bin\Debug\ClearGem VPN.xml
+D:\Development\Visual Basic 2010 Express\Source\ClearGem VPN\VSPROJ\ClearGem VPN\ClearGem VPN\obj\x86\Debug\ClearGem_VPN.Form1.resources
+D:\Development\Visual Basic 2010 Express\Source\ClearGem VPN\VSPROJ\ClearGem VPN\ClearGem VPN\obj\x86\Debug\ClearGem_VPN.Resources.resources
+D:\Development\Visual Basic 2010 Express\Source\ClearGem VPN\VSPROJ\ClearGem VPN\ClearGem VPN\obj\x86\Debug\ClearGem VPN.vbproj.GenerateResource.Cache
+D:\Development\Visual Basic 2010 Express\Source\ClearGem VPN\VSPROJ\ClearGem VPN\ClearGem VPN\obj\x86\Debug\ClearGem VPN.exe
+D:\Development\Visual Basic 2010 Express\Source\ClearGem VPN\VSPROJ\ClearGem VPN\ClearGem VPN\obj\x86\Debug\ClearGem VPN.xml
+D:\Development\Visual Basic 2010 Express\Source\ClearGem VPN\VSPROJ\ClearGem VPN\ClearGem VPN\obj\x86\Debug\ClearGem VPN.pdb
+D:\Development\Visual Basic 2010 Express\Source\ClearGem VPN\VSPROJ\ClearGem VPN\ClearGem VPN\obj\x86\Debug\ClearGem_VPN.ToastNotif.resources
+D:\Development\Visual Basic 2010 Express\Source\ClearGem VPN\VSPROJ\ClearGem VPN\ClearGem VPN\obj\x86\Debug\ClearGem_VPN.About.resources
